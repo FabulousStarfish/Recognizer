@@ -1,0 +1,18 @@
+#camera{
+    border: solid;
+    border-width: 1px;
+    height: 300px;
+    width: 350px;
+}
+body{
+    background-color: #343575;
+    color: white;
+}
+.my_heading{
+    top: 0;
+    position: sticky;
+    background-color:#343575 ;
+}
+.name_of_object{
+    color: lightblue;
+}
